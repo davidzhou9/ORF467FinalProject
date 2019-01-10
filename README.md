@@ -55,6 +55,7 @@ Steps:
 6. Upload all necessary generated files to your group's Dropbox folder.
 
 ## Notes
+- Task 2 has been modified to have 6 minute time blocks instead of the 10 minute time blocks specified in the assignment. This is because repositioning in Task 3 is done every 6 minutes (10x a hour).
 - Inputs from each step are dependent on previous steps (except for Task 1) so one may need to run this repository's code to generated correct inputs/outputs.
 - We performed the repositioning analysis with superpixels of 25x25 due to space and time constraints.
 - Feel free to contribute to this repo as well if you spot errors!
