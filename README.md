@@ -1,6 +1,19 @@
 # ORF467FinalProject
 Final Project of ORF467 Fall'18: Analyzing the ride-sharing potential and empty re-positioning requirements of a Nationwide aTaxi System
 
+Contributors to this repository's code (in alphabetical order):
+- David Zhou (dz4@princeton.edu)
+- Jasmine Young (jgyoung@princeton.edu)
+- Millian Gehrer (mgehrer@princeton.edu)
+- Stewart Stroebel (sps3@princeton.edu)
+
+## Task 0: Download this repo
+
+Steps:
+
+1. Download this repo as a zip file by clicking "Clone or download" > "Download ZIP".
+2. Feel free to contribute to this repo as well if you spot errors!
+
 ## Task 1: Assessing the Rideshare Potential of Each County In Each County, State and Region
 
 Steps:
@@ -14,3 +27,18 @@ a.	A good way to estimate runtime is to use the estimated runtimes I left in the
 6.	For Part 3, the algorithm will produce a file called “{State}_{StateFIPS}_vehicleTrip”. Store in a folder called “{State}_vehicleTrip Files”.
 7.	For Part 4, take the three outputted files and store in folder called “{State}_aTaxiStatistic Files”.
 8.	For Part 5, take the one outputted file and store in folder called “{State}_airportTrip”.
+
+## Task 2: Assess Fleet Size Requirements for Your Region
+
+Steps:
+
+1. Create a new folder for Task 2.
+2. Copy over "{State}_{StateFIPS}_vehicleTrip.csv" file from the previous part into this new folder.
+3. Change the readtable command on the 4th line such that the file name reflects the name of your state's vehicleTrip file.
+4. Run the code and collect the output.
+
+## Task 3: Assess the Empty Vehicle Reposition Implications
+
+Steps:
+
+1. 
