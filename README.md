@@ -12,7 +12,6 @@ Contributors to this repository's code (in alphabetical order):
 Steps:
 
 1. Download this repo as a zip file by clicking "Clone or download" > "Download ZIP".
-2. Feel free to contribute to this repo as well if you spot errors!
 
 ## Task 1: Assessing the Rideshare Potential of Each County In Each County, State and Region
 #### Contact for this Section: David Zhou
@@ -54,3 +53,4 @@ Steps:
 
 ## Notes
 - Inputs from each step are dependent on previous steps (except for Task 1) so one may need to run this repository's code to generated correct inputs/outputs.
+- Feel free to contribute to this repo as well if you spot errors!
