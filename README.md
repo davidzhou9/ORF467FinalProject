@@ -32,7 +32,7 @@ a.	A good way to estimate runtime is to use the estimated runtimes I left in the
 8.	For Part 5, take the one outputted file and store in folder called “{State}_airportTrip”.
 
 ## Task 2: Assess Fleet Size Requirements for Your Region
-#### Contact for this Section: Any of the Contributors
+#### Contact for this Section: Stewart Stroebel. Jasmine, David and Millian edited/reviewed the code as well.
 
 Steps:
 
