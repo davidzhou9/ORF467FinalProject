@@ -1,5 +1,5 @@
 # ORF467FinalProject
-Final Project of ORF467 Fall'18: Analyzing the ride-sharing potential and empty re-positioning requirements of a Nationwide aTaxi System
+Final Project of ORF467 Fall'18: Analyzing the ride-sharing potential and empty re-positioning requirements of a Nationwide aTaxi System.
 
 Contributors to this repository's code (in alphabetical order):
 - David Zhou (dz4@princeton.edu)
@@ -15,6 +15,7 @@ Steps:
 2. Feel free to contribute to this repo as well if you spot errors!
 
 ## Task 1: Assessing the Rideshare Potential of Each County In Each County, State and Region
+#### Contact for this Section: David Zhou
 
 Steps:
 
@@ -29,16 +30,27 @@ a.	A good way to estimate runtime is to use the estimated runtimes I left in the
 8.	For Part 5, take the one outputted file and store in folder called “{State}_airportTrip”.
 
 ## Task 2: Assess Fleet Size Requirements for Your Region
+#### Contact for this Section: Any of the Contributors
 
 Steps:
 
 1. Create a new folder for Task 2.
 2. Copy over "{State}_{StateFIPS}_vehicleTrip.csv" file from the previous part into this new folder.
 3. Change the readtable command on the 4th line such that the file name reflects the name of your state's vehicleTrip file.
+5. Make any necessary changes to file ouput names, etc. in the code.
 4. Run the code and collect the output.
 
 ## Task 3: Assess the Empty Vehicle Reposition Implications
+#### Contact for this Section: Millian Gehrer, David Zhou
 
 Steps:
 
-1. 
+1. Create a new folder for Task 3. 
+2. Copy over "SuperPixel2SuperPixelVehicleTripOorD_{State}.csv" and "{State}MinCounts.csv" 
+3. Change the filenames in lines 4, 44, 72, 88, 94, and 246 to reflect the name of your state.
+4. Change the value of regionFleetSize in line 97 to reflect the (1.1 * minFleetSize) as calculated in Part 2.
+5. Run the code in sections, saving the graphs and output text along the way. 
+6. Upload all necessary generated files to your group's Dropbox folder.
+
+## Notes
+- Inputs from each step are dependent on previous steps (except for Task 1) so one may need to run this repository's code to generated correct inputs/outputs.
