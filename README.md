@@ -12,6 +12,7 @@ Contributors to this repository's code (in alphabetical order):
 Steps:
 
 1. Download this repo as a zip file by clicking "Clone or download" > "Download ZIP".
+2. Alternatively use Git and clone with the following HTTPS: https://github.com/davidzhou9/ORF467FinalProject.git
 
 ## Task 1: Assessing the Rideshare Potential of Each County In Each County, State and Region
 #### Contact for this Section: David Zhou
@@ -53,4 +54,5 @@ Steps:
 
 ## Notes
 - Inputs from each step are dependent on previous steps (except for Task 1) so one may need to run this repository's code to generated correct inputs/outputs.
+- We performed the repositioning analysis with superpixels of 25x25 due to space and time constraints.
 - Feel free to contribute to this repo as well if you spot errors!
