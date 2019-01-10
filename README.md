@@ -19,7 +19,7 @@ Steps:
 
 Steps:
 
-WARNING: Make sure you download the correct Part1 MATLAB file. If your state has a FIPS code less than 10, use the one titled finalProject_Part1_FIPSLessThan10_vF.m. Otherwise, you use finalProject_Part1_vF.m.
+NOTE: Make sure you download the correct Part1 MATLAB file. If your state has a FIPS code less than 10, use the one titled finalProject_Part1_FIPSLessThan10_vF.m. Otherwise, you use finalProject_Part1_vF.m.
 
 1.	Download all relevant CSV files for your assigned state. To do this, first find your state’s FIPS code (for example, New Mexico’s is 35). Then go to NationWideTrips’18Kyle and download all the csv files that start with that state’s FIPS code.
 2.	Next, store these files in a subdirectory of the MATLAB file. I called this subdirectory “NewMexicoPersonTrips”.
