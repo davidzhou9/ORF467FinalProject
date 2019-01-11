@@ -36,6 +36,8 @@ a.	A good way to estimate runtime is to use the estimated runtimes I left in the
 
 Steps:
 
+NOTE: For large states, one may need to increase MATLAB's memory's requirements (See Notes below for how to do so). May also need to run on a computer with at least 16 GB of RAM.
+
 1. Create a new folder for Task 2.
 2. Copy over "{State}_{StateFIPS}_vehicleTrip.csv" file from the previous part into this new folder.
 3. Change the readtable command on the 4th line such that the file name reflects the name of your state's vehicleTrip file.
