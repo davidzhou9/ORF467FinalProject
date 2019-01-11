@@ -55,7 +55,8 @@ Steps:
 6. Upload all necessary generated files to your group's Dropbox folder.
 
 ## Notes
-- Task 2 has been modified to have 6 minute time blocks instead of the 10 minute time blocks specified in the assignment. This is because repositioning in Task 3 is done every 6 minutes (10x a hour).
+- Memory constraints may become prohibitive on some computers due to RAM constraints. As a work around go to Preferences > Workspace > Increase Maximum Array Size to 10,000 and uncheck "Limit the maximum array size to a percentage of RAM". Also go to Preferences > General > Java Heap Memory > Increase to Maximum. Always run on the laptops with the most RAM.
+ - Task 2 has been modified to have 6 minute time blocks instead of the 10 minute time blocks specified in the assignment. This is because repositioning in Task 3 is done every 6 minutes (10x a hour).
 - Inputs from each step are dependent on previous steps (except for Task 1) so one may need to run all of this repository's code to generated correct inputs/outputs. In other words, if you have generated files from your code, it may not be compatible with this repo's code.
 - We performed the repositioning analysis with superpixels of 25x25 due to space and time constraints.
 - Feel free to contribute to this repo as well if you spot errors/bugs!
